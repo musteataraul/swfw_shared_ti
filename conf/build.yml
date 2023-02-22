@@ -2,3 +2,5 @@ variants:
     generic:
         production:
         
+            uses:
+                
