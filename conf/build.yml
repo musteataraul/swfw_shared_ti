@@ -1,6 +1,5 @@
 variants:
     generic:
-        production:
-        
+    
             uses:
                 
