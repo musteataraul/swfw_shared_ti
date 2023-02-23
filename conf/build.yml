@@ -3,6 +3,6 @@ variants:
         production:
         
             uses:
-                swfw_shared_ti: &sdsds
+                swfw_shared_xx: &sdsdsxs
                     release: "1.3"
                     variant: generic
